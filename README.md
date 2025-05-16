@@ -16,7 +16,7 @@
 
 
  ![WHEN TWO KINGS MEET](https://files.catbox.moe/cv3ui1.jpg)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=EYEBATCH-XMD;V1;DEVELOPED-BY-JADEN-AFRIX᭡𖤛➣;➣𖤛ALPHA-KING𖤛➣)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=EYEBATCH-XMD;V1;DEVELOPED-BY;JADEN-AFRIX᭡𖤛➣;➣𖤛ALPHA-KING𖤛➣)
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
