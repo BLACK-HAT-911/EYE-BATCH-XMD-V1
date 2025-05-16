@@ -21,3 +21,37 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
+
+
+
+## 🚀 Deployment Steps❄ 
+
+### 1. Fork This Repository
+
+First star & Fork the repo using the button below!
+
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/BLACK-HAT-911/EYE-BATCH-XMD-V1/fork)
+
+### 2. Get Session ID
+### ❄  PORTAL CODES
+[![PORTAL_CODE 1](https://img.shields.io/badge/PORTAL_CODE1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug.onrender.c/)
+
+#### ❄  OPTION ONE
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug.onrendercom/pair)
+
+
+#### ❄  OPTION TWO
+[![SCAN_CODE_1](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug.onreder.com/qr)
+
+
+> Connection issues may require VPN activation.
+
+---
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+## 🚀 DEPLOYMENT OPTIONS
+
+
